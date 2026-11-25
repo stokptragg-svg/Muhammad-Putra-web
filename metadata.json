@@ -1,0 +1,8 @@
+{
+  "name": "Remix Portofolio — Muhammad Putra Al Thaillah",
+  "description": "Web portofolio resmi Muhammad Putra Al Thaillah (NIM: 261011400864) menampilkan karya rekayasa web, desain antarmuka, keahlian teknis, dan source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
